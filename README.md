@@ -2,6 +2,10 @@
 
 A complete SQL database management system connected to Python, implementing the whiteboard specifications for student course registration (FFCS).
 
+![Workflow Diagram](workflow_diagram.png)
+
+> 📖 **Full Architectural & Flowchart Documentation**: See [WORKFLOW.md](WORKFLOW.md) for detailed sequence diagrams, Mermaid flowcharts, and role workflows.
+
 ## Table Structure
 Matches the whiteboard columns:
 - **`reg_no`**: Student Registration Number (e.g. `21BCE1001`)
